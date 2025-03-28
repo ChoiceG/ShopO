@@ -16,6 +16,10 @@ gem "stimulus-rails"
 gem "jbuilder"
 # Use Tailswind CSS for styling
 gem "tailwindcss-rails"
+# Use for users authentication
+gem "devise"
+# Use fontawesome to add icons
+gem "font-awesome-sass"
 
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
